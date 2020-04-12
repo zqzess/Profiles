@@ -1,11 +1,13 @@
 ## 更新 04.08.2020
 
-如大家需要使用 JS ，建议大家转移使用 Unzip 版本（简单轻松快乐版）https://github.com/limbopro/Profiles/blob/master/limbopro/Gift/Without/unzip/README.MD 
+如大家希望用最简单的方法使用 JS ，建议大家转移使用 unzip 版本（简单轻松快乐版）🔓 **解锁 各种新姿势** 最快三分钟搞定！ https://github.com/limbopro/Profiles/blob/master/limbopro/Gift/Without/unzip/README.MD 
 
 ---
 
-# 主理人说
+以上。
+以下为旧 Readme.md
 
+# 主理人说
 
 ## 备份 iOS IPA 安装文件
 - 备份IPA参考 [仅需三步，使用iMazing 轻松下载（当前版本）/或安装IPA文件（旧版本）](https://limbopro.xyz/archives/imazing.html)（需挂代理）
