@@ -1,4 +1,9 @@
 ## 更新说明 
+### 04.12.2020
+0. 重复教程 **第一步**，下载仓库最新的 **zip文件** 或使用 使用 [WorkingCopy](https://limbopro.xyz/archives/workingcopy.html) 同步最新仓库文件 ；（⚠️再次下载⬇️ **zip文件📃** 前请先删除 [Script]文件夹📁内 已经解压的文件，因为 iPhone 文件没有覆盖这一说...； ）
+1. 然后进入 QuantumultX ，点击右下角 [三菱按钮] - [重写] - [引用] - 点击 [unzip适配版] 更新
+2. ⚠️第一次使用 [WorkingCopy](https://limbopro.xyz/archives/workingcopy.html) 同步最新仓库文件 ，亦需要清空 [Script] 内的所有文件；
+
 ### 04.10.2020
 0. 教程 **第一步** 中增加了使用 **workingcopy** 克隆GitHub仓库到手机📱本地的方法；
 ### 04.09.2020
