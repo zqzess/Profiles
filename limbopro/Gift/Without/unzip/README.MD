@@ -36,6 +36,8 @@
 4. [Qure](https://github.com/Koolson/Qure/tree/master/IconSet) 开源图标
 
 ## 关于策略及分流的说明
+⚠️ 本预配置文件默认8个策略，按以下 **操作步骤** 毕后即可在 Quantumult X 主界面看见。
+
 - **故障切换**：该策略组自动检测组内节点可用情况（surge 会切换选中最低延迟节点）；
 - **机场专线**：主流机场域名分流规则，例如 N3RO ，你可使其请求走代理，直连等；
 - **社交媒体**：国外社交媒体，如Twitter/Facebook/Instagram等，**流量消耗小，但需要稳定**；
