@@ -36,7 +36,7 @@
 4. [Qure](https://github.com/Koolson/Qure/tree/master/IconSet) 开源图标
 
 ## 关于策略及分流的说明
-⚠️ 本预配置文件默认8个策略，如上方**预览图**中所示；按以下 **操作步骤** 操作完毕后即可在 Quantumult X 主界面看见。
+⚠️ 本预配置文件默认8个策略，如上方**预览图**中所示；按以下 **具体操作** 操作完毕后即可在 Quantumult X 主界面看见。
 
 - **故障切换**：该策略组自动检测组内节点可用情况（surge 会切换选中最低延迟节点）；
 - **机场专线**：主流机场域名分流规则，例如 N3RO ，你可使其请求走代理，直连等；
@@ -50,11 +50,10 @@
 * GEOIP,CN,DIRECT，默认中国大陆网站均走直连；
 
 ## 具体操作
-💡 完整视频对照操作教程请参阅：https://t.me/limboprossr/1702 ；
-或参阅 YouTube https://www.youtube.com/watch?v=4Sy0HUcOvYk&loop=0 （该视频教程不包含生成证书与信任证书📚）
+💡 完整视频对照操作教程请参阅：https://t.me/limboprossr/1702 或参阅 YouTube https://www.youtube.com/watch?v=4Sy0HUcOvYk&loop=0 （该视频教程不包含生成证书与信任证书📚）
 
 ### 第一步 ⏬ 下载 脚本仓库压缩包
-0. 第一步 ⏬ 建议尽量使用 [WorkingCopy](https://limbopro.xyz/archives/workingcopy.html) 替代，以方便以后更新（只需在在 WorkingCopy 内下拉即可更新）；如不想使用 WorkingCopy ，继续看下文；
+💡✅ **第一步  ⏬ 下载 脚本仓库**， 博主建议尽量使用 [WorkingCopy](https://limbopro.xyz/archives/workingcopy.html) 替代，以方便以后更新（后期脚本仓库更新只需在在 WorkingCopy 内下拉即可更新），**如不想使用 WorkingCopy ，请继续看下文**；
 
 1. https://github.com/NobyDa/Script/archive/master.zip
 2. 复制上述并在 Safari 打开下载，打开下载的文件
