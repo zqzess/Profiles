@@ -30,7 +30,7 @@
 
 ## 本预配置文件所引用到的仓库
 0. 在此毒奶对大家的付出表示感谢
-1. [NobyDa](https://github.com/NobyDa/Script/tree/master) 脚本仓库
+1. [NobyDa](https://github.com/NobyDa/Script/tree/master) 脚本仓库（*如删库可替换 NobyDa 为 limbopro，其他同理）
 2. [ConnersHua](https://github.com/ConnersHua/Profiles/tree/master) 神机规则
 3. [limbopro](https://github.com/limbopro/Profiles/tree/master/limbopro) 机场专线
 4. [Qure](https://github.com/Koolson/Qure/tree/master/IconSet) 开源图标
@@ -74,7 +74,7 @@ https://raw.githubusercontent.com/ConnersHua/Profiles/master/Quantumult/X/Filter
 ### 第一步 ⏬ 下载 脚本仓库压缩包
 💡✅ **第一步  ⏬ 下载 脚本仓库**， 博主建议尽量使用 [WorkingCopy](https://limbopro.xyz/archives/workingcopy.html) 替代，以方便以后更新（后期脚本仓库更新只需在在 WorkingCopy 内下拉即可更新），**如不想使用 WorkingCopy ，请继续看下文**；
 
-1. https://github.com/NobyDa/Script/archive/master.zip
+1. https://github.com/NobyDa/Script/archive/master.zip （*如删库可替换 NobyDa 为 limbopro，其他同理）
 2. 复制上述并在 Safari 打开下载，打开下载的文件
 3. 下载成功后，进入 [文件]App - [我的iPhone] - [下载项] 找到  Script-master.zip 并解压
 4. 进入解压后的 文件夹 [Script-master]
