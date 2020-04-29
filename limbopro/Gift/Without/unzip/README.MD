@@ -61,7 +61,7 @@ https://raw.githubusercontent.com/ConnersHua/Profiles/master/Quantumult/X/Filter
 * GEOIP,CN,DIRECT，默认中国大陆网站均走直连；
 
 ## 特殊情况
-⚠️ 如果你已经正在使用 QuantumultX，并且**只想通过JS脚本解锁🔓相应事务**，则仅需执行，无需遵循以下完整操作教程：
+⚠️ 如果你已经正在使用 QuantumultX，并且**只想通过JS脚本解锁🔓相应事务**，无需遵循以下完整**具体操作**，则仅需执行其中两步即可：
 1. 按 **具体操作** 中第一步，将脚本仓库下载到手机📱；
 2. 进入 QuantumultX ，点击右下角 [三菱按钮] - [重写] - [引用] ，
 3. 右上角 [+]  https://raw.githubusercontent.com/limbopro/Profiles/master/limbopro/Gift/Without/unzip/Js.conf ，同步；
