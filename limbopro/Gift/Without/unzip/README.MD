@@ -47,8 +47,7 @@
 - **广告拦截**：默认选择 `Reject`，广告拦截可能会造成某些错误🙅，届时 将 **广告拦截** 的 **策略偏好** 修改为 PROXY 或 Direct 即可；
 - **Final**： 排除以上已知的分流规则的其他未知；
 
-* GEOIP,CN,DIRECT，默认中国大陆网站均走直连；
-
+在 [配置] - [编辑] - [filter_remote] - 对应如下：（供参考）
 ```
 https://raw.githubusercontent.com/NobyDa/Script/master/QuantumultX/AdRule.list, tag=野比去广告（稳定版）, force-policy=🛑 广告拦截, enabled=true
 https://raw.githubusercontent.com/NobyDa/Script/master/QuantumultX/AdRuleTest.list, tag=野比去广告（测试版）, force-policy=🛑 广告拦截, enabled=false
@@ -58,6 +57,8 @@ https://raw.githubusercontent.com/ConnersHua/Profiles/master/Quantumult/X/Filter
 https://raw.githubusercontent.com/ConnersHua/Profiles/master/Quantumult/X/Filter/Global.list, tag=社交媒体, force-policy=📲 社交媒体, enabled=true
 https://raw.githubusercontent.com/ConnersHua/Profiles/master/Quantumult/X/Filter/Apple.list, tag=苹果服务, force-policy=🍎 苹果服务, enabled=true
 ```
+
+* GEOIP,CN,DIRECT，默认中国大陆网站均走直连；
 
 ## 具体操作
 💡 完整视频对照操作教程请参阅：https://t.me/limboprossr/1702 或参阅 YouTube https://www.youtube.com/watch?v=4Sy0HUcOvYk&loop=0 （该视频教程不包含生成证书与信任证书📚）
