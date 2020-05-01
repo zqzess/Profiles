@@ -1,3 +1,4 @@
-DOMAIN-SUFFIX,analyticsinsights-pa.googleapis.com
-DOMAIN-SUFFIX,analyticsreporting.googleapis.com
-DOMAIN-SUFFIX,ssl.google-analytics.com
+DOMAIN,analyticsinsights-pa.googleapis.com
+DOMAIN,analyticsreporting.googleapis.com
+DOMAIN,ssl.google-analytics.com
+DOMAIN,analytics.google.com
