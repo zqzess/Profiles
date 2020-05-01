@@ -1,5 +1,5 @@
-DOMAIN-SUFFIX,analyticsinsights-pa.googleapis.com,PROXY
-DOMAIN-SUFFIX,analyticsreporting.googleapis.com,PROXY
-DOMAIN-SUFFIX,ssl.google-analytics.com,PROXY
-DOMAIN-SUFFIX,ssl.google-analytics.com,PROXY
-DOMAIN-SUFFIX,ssl.google-analytics.com,PROXY
+DOMAIN-SUFFIX,analyticsinsights-pa.googleapis.com
+DOMAIN-SUFFIX,analyticsreporting.googleapis.com
+DOMAIN-SUFFIX,ssl.google-analytics.com
+DOMAIN-SUFFIX,ssl.google-analytics.com
+DOMAIN-SUFFIX,ssl.google-analytics.com
