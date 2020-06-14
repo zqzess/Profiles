@@ -1,6 +1,6 @@
 ## 更新说明 
 ### 06.14.2020 
-Quantumult X 最新版本（v.1.0.10）已重新支持远程脚本（不完全版），但博主仍建议使用 WorkingCopy 本地脚本，会更方便；
+Quantumult X 最新版本（v.1.0.10）已重新支持远程脚本（不完全版），博主仍建议大家使用 WorkingCopy 本地脚本，会更方便；
 ### 04.13.2020 
 想玩脚本签到的小伙伴可追踪 https://github.com/chavyleung/scripts ；
 ### 04.12.2020
