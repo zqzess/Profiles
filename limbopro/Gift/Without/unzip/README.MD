@@ -1,4 +1,6 @@
 ## 更新说明 
+### 06.14.2020 
+Quantumult X 最新版本（v.1.0.10）已重新支持远程脚本（不完全版），但博主仍建议使用 WorkingCopy 本地脚本，会更方便；
 ### 04.13.2020 
 想玩脚本签到的小伙伴可追踪 https://github.com/chavyleung/scripts ；
 ### 04.12.2020
@@ -34,6 +36,7 @@
 2. [ConnersHua](https://github.com/ConnersHua/Profiles/tree/master) 神机规则
 3. [limbopro](https://github.com/limbopro/Profiles/tree/master/limbopro) 机场专线
 4. [Qure](https://github.com/Koolson/Qure/tree/master/IconSet) 开源图标
+5. [chavyleung](https://github.com/chavyleung/scripts) 签到脚本
 
 ## 关于策略及分流的说明
 ⚠️ 本预配置文件默认8个策略，如上方**预览图**中所示；按以下 **具体操作** 操作完毕后即可在 Quantumult X 主界面看见。
