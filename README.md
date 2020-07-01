@@ -1,3 +1,8 @@
+## 及时收讯
+0. 如果你在使用毒奶机场专用分流或毒奶预配置文件；
+1. 为了方便收讯更新；
+2. 请务必关注 TG 电报频道：https://t.me/limboprossr 或 Twitter：https://twitter.com/limboprossr
+
 ## 主理人说
 1. Folk 来自神机规则，毒奶自用；
 3. 如你需要 **自行搭配** 使用神机规则，请访问神机源仓库 https://github.com/ConnersHua/Profiles/tree/master ；
