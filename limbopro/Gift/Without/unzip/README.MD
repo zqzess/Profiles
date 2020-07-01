@@ -1,3 +1,8 @@
+# 及时收讯
+0. 如果你在使用毒奶机场专用分流或毒奶预配置文件；
+1. 为了方便收讯更新；
+2. 请务必关注 TG 电报频道：https://t.me/limboprossr 或 Twitter：https://twitter.com/limboprossr
+
 ## 更新说明 
 ### 06.14.2020 
 1. Quantumult X 最新版本（v.1.0.10）已重新支持远程脚本（不完全版），博主仍建议大家使用 WorkingCopy 本地脚本，会更方便；
