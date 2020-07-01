@@ -4,7 +4,7 @@
 2. 请务必关注 TG 电报频道：https://t.me/limboprossr 或 Twitter：https://twitter.com/limboprossr
 
 ## 更新说明 
-### 06.14.2020 
+### 07.01.2020 
 1. Quantumult X 最新版本（v.1.0.12）已完全支持远程脚本，参阅：https://limbopro.xyz/archives/11115.html；
 ### 04.13.2020 
 想玩脚本签到的小伙伴可追踪 https://github.com/chavyleung/scripts ；
