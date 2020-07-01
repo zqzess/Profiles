@@ -5,7 +5,7 @@
 
 ## 更新说明 
 ### 06.14.2020 
-1. Quantumult X 最新版本（v.1.0.10）已重新支持远程脚本（不完全版），博主仍建议大家使用 WorkingCopy 本地脚本，会更方便；
+1. Quantumult X 最新版本（v.1.0.12）已完全支持远程脚本，参阅：https://limbopro.xyz/archives/11115.html；
 ### 04.13.2020 
 想玩脚本签到的小伙伴可追踪 https://github.com/chavyleung/scripts ；
 ### 04.12.2020
